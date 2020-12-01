@@ -16,11 +16,11 @@ public class Enemy_base_controller : Interactable
 
     protected virtual void Move() 
     {
-        // метод для реалізації руху ворога
+        // method for realization enemy movement
     }
 
     public virtual void Attack()
     {
-        // метод для реалізації атаки ворога
+        // method for realization an enemy attack
     }
 }

@@ -13,12 +13,12 @@ public class Countryman_controller : NPC_base_controller
 
     protected override void Move()
     {
-        // рух по заданій локації
+        // movement in a given location
     }
 
     public override void Interact()
     {
-        // почати діалог з гравцем
+        // start a dialogue with player
         Speak();
     }
 }

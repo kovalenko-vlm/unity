@@ -10,11 +10,11 @@ public class NPC_base_controller : Interactable
 
     protected virtual void Move() 
     { 
-        // реалізація руху
+        // movement realization
     }
 
     protected virtual void Speak() 
-    { 
-        // реалізація діалогу
+    {
+        // dialogue realization
     }
 }

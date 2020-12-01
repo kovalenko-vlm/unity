@@ -13,11 +13,11 @@ public class Potion_of_MP_controller : Item_base_controller
 
     protected override void Use()
     {
-        // використати зілля
+        // use potion
     }
 
     public override void Interact()
     {
-        // поповнити вміст зілля з певних предметів
+        // refill the content of the potion from some items
     }
 }

@@ -9,7 +9,7 @@ public class Item_base_controller : Interactable
     protected int howManyUse { get; set; }
 
     protected virtual void Use() 
-    { 
-        // метод для реалізації використання предмету
+    {
+        // method for realization to use thing
     }
 }

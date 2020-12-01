@@ -15,12 +15,12 @@ public class Meduse_controller : Enemy_base_controller
     protected override void Move()
     {
         base.Move();
-        // реалізація руху
+        // movement realization
     }
 
     public override void Interact()
     {
         base.Attack();
-        // реалізація атаки
+        // atack realization
     }
 }

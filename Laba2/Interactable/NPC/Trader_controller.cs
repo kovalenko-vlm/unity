@@ -15,12 +15,12 @@ public class Trader_controller : Countryman_controller
 
     private void Trade()
     {
-        // торгувати з гравцем з списку предметів
+        // trade with a player from the list of items
     }
 
     public override void Interact()
     {
-        // почати діалог з гравцем
+        // start a dialogue with player
         Speak();
     }
 }

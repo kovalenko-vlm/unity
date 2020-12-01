@@ -13,12 +13,12 @@ public class Animal_controller : NPC_base_controller
 
     protected override void Move()
     {
-        // рух по заданій локації
+        // movement in a given location
     }
 
     public override void Interact()
     {
-        // з певним проміжком в часі подавати певні звуки з набору
+        // with a certain time interval to make some sounds from the list
         Speak();
     }
 }

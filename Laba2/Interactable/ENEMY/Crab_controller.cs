@@ -15,12 +15,12 @@ public class Crab_controller : Enemy_base_controller
     protected override void Move()
     {
         base.Move();
-        //реалізація руху для крабу
+        //realization of the movement for the crab
     }
 
     public override void Interact()
     {
         base.Attack();
-        // атакуємо гравця, якщо він в зоні видимості
+        // attack the player, if he`s in range
     }
 }

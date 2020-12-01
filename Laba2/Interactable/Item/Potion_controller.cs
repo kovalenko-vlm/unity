@@ -13,11 +13,11 @@ public class Potion_controller : Item_base_controller
 
     protected override void Use()
     {
-        // використати зілля
+        // use potion
     }
 
     public override void Interact()
     {
-        // реалізація ефекту
+        // effect realization
     }
 }

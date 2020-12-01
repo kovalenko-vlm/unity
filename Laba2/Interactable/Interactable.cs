@@ -5,7 +5,7 @@ using UnityEngine;
 public class Interactable : MonoBehaviour
 {
     public virtual void Interact() 
-    { 
-        // метод для взаємодій
+    {
+        // method for interactions
     }
 }
